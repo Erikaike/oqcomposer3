@@ -1,0 +1,17 @@
+{
+    "name": "erika/oqcomposer3",
+    "autoload": {
+        "psr-4": {
+            "Erika\\Oqcomposer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erika",
+            "email": "erika.ike@outlook.fr"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
